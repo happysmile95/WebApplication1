@@ -1,0 +1,18 @@
+<DepartamentsCollection>
+	<Departaments>
+		<Departament>
+			<Name>Департамент 2</Name>
+			<Divisons>
+				<Name>Отдел 1</Name>
+				<Name>Отдел 2</Name>
+			</Divisons>
+		</Departament>
+		<Departament>
+			<Name>Департамент 3</Name>
+			<Divisons>
+				<Name>Отдел 1</Name>
+				<Name>Отдел 2</Name>
+			</Divisons>
+		</Departament>
+	</Departaments>
+</DepartamentsCollection>
